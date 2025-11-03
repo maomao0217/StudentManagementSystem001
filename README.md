@@ -11,7 +11,7 @@
 - 🔍 **查询学生信息**（根据学号或姓名）  
 - ✏️ **修改学生信息**  
 - 🗑️ **删除学生信息**  
-- 💾 **将数据保存至文本文件（StuAllInfo.txt、StuPWInfo.txt、TeaPWInfo.txt）**  
+- 💾 **将数据保存至文本文件**  
 - 📂 **从文本文件读取数据到内存**
 
 ---
@@ -19,7 +19,7 @@
 ## 🛠️ 技术实现
 
 - **编程语言**：C  
-- **数据存储**：文本文件（`students.txt`）  
+- **数据存储**：文本文件（`StuAllInfo.txt、StuPWInfo.txt、TeaPWInfo.txt`）  
 - **开发环境**：Dev-C++、Code::Blocks、VSCode 或其他支持 C 的编译器  
 - **主要知识点**：
   - 文件读写（`fopen`, `fprintf`, `fscanf`, `fclose`）  
